@@ -84,7 +84,7 @@ Key parameters in `src/sim_config.py`:
 - `enable_dasher_incentive`, `incentive_amount`
 - `treatment_promo_amount`
 
-## Key findings (placeholders)
+## Key findings
 - Promo increases conversion but can reduce per-order profit.
 - Min-ETA dispatch reduces p90 delivery time.
 - Late deliveries lower 7-day repeat rates.
