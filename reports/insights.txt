@@ -1,0 +1,9 @@
+Cancellation model coefficients (positive increases cancel odds):
+segment_price_sensitive    0.040096
+promo_flag                 0.038601
+eta_shown_min              0.008105
+segment_loyal             -0.019495
+is_peak                   -0.172834
+
+Interpretation:
+Higher ETA and peak periods increase cancellation odds, while promos and loyal segments reduce it.
