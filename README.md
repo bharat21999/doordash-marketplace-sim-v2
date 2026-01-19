@@ -1,6 +1,6 @@
 # DoorDash-Style Marketplace Simulator
 
-A reproducible, interview-ready simulator for a two-sided delivery marketplace (Consumers, Merchants, Dashers) built in pure Python + pandas. It generates session-to-order funnel data, order lifecycle events, and unit economics, then runs analytics to produce KPIs, experiment readouts, and retention insights.
+A reproducible simulator for a two-sided delivery marketplace (Consumers, Merchants, Dashers) built in pure Python + pandas. It generates session-to-order funnel data, order lifecycle events, and unit economics, then runs analytics to produce KPIs, experiment readouts, and retention insights.
 
 ## What this project is
 A compact yet realistic marketplace analytics sandbox for modeling demand, dispatch, ETAs, cancellations, pricing, and incentives. It is designed to mimic the types of analyses done in Marketplace data science.
